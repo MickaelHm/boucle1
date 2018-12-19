@@ -1,0 +1,6 @@
+C:\Users\Moi\source\repos\Boucle\Boucle1\Boucle1\obj\Debug\Boucle1.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Boucle\Boucle1\Boucle1\bin\Debug\Boucle1.exe.config
+C:\Users\Moi\source\repos\Boucle\Boucle1\Boucle1\bin\Debug\Boucle1.exe
+C:\Users\Moi\source\repos\Boucle\Boucle1\Boucle1\bin\Debug\Boucle1.pdb
+C:\Users\Moi\source\repos\Boucle\Boucle1\Boucle1\obj\Debug\Boucle1.exe
+C:\Users\Moi\source\repos\Boucle\Boucle1\Boucle1\obj\Debug\Boucle1.pdb
